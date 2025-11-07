@@ -18,3 +18,5 @@ import './commands'
 import './registroFormulario'
 import './dniError'
 import './emailError'
+import './redireccionLogin'
+
